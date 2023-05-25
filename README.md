@@ -16,9 +16,9 @@ Meetecho: https://meetings.conf.meetecho.com/interim/?short=d5325a85-dc3b-453f-b
 
 ## Materials
 
-Slides: TBD
+Slides: https://datatracker.ietf.org/meeting/interim-2023-t2trg-01/session/t2trg
 
-Notes: TBD
+Notes: https://notes.ietf.org/notes-ietf-interim-2023-t2trg-01-t2trg
 
 ## Draft agenda
 
